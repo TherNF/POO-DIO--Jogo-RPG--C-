@@ -1,0 +1,15 @@
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\obj\Debug\net6.0\Poo- Jogo RPG.csproj.AssemblyReference.cache
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\obj\Debug\net6.0\Poo- Jogo RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\obj\Debug\net6.0\Poo- Jogo RPG.AssemblyInfoInputs.cache
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\obj\Debug\net6.0\Poo- Jogo RPG.AssemblyInfo.cs
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\obj\Debug\net6.0\Poo- Jogo RPG.csproj.CoreCompileInputs.cache
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\bin\Debug\net6.0\Poo- Jogo RPG.exe
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\bin\Debug\net6.0\Poo- Jogo RPG.deps.json
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\bin\Debug\net6.0\Poo- Jogo RPG.runtimeconfig.json
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\bin\Debug\net6.0\Poo- Jogo RPG.dll
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\bin\Debug\net6.0\Poo- Jogo RPG.pdb
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\obj\Debug\net6.0\Poo- Jogo RPG.dll
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\obj\Debug\net6.0\refint\Poo- Jogo RPG.dll
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\obj\Debug\net6.0\Poo- Jogo RPG.pdb
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\obj\Debug\net6.0\Poo- Jogo RPG.genruntimeconfig.cache
+C:\Users\ester\RiderProjects\Poo- Jogo RPG\Poo- Jogo RPG\obj\Debug\net6.0\ref\Poo- Jogo RPG.dll
